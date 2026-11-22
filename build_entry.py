@@ -54,9 +54,10 @@ STORIES = [
      "Talks in Antalya run into a second day past deadline over fossil "
      "fuels; a new draft lands Sunday as states press for a transition "
      "pledge."),
-    ("MIDDLE EAST", "Saudi intercepts missile; Iran hits Bahrain",
-     "Saudi air defences shoot down a Houthi ballistic missile said to "
-     "target Makkah; Iran strikes an industrial site in Bahrain."),
+    ("MIDDLE EAST", "Saudi stops missile; Bahrain blames Iran",
+     "Saudi-led coalition says it intercepted a Houthi missile headed "
+     "for western Saudi Arabia; Bahrain says an Iranian attack hit a "
+     "civilian industrial facility."),
     ("EUROPE", "France protests continue",
      "Largely peaceful marches over living costs and student rights "
      "draw smaller crowds than last week, in a sixth weekend of "
